@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Feedback Request Form feature.
+ */
+
+include_once 'feedback_request_form.features.inc';
